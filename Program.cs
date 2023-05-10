@@ -8,6 +8,11 @@
             Console.WriteLine("Hello, World!");
             x = 0;
             x = 10;
+
+            // segunda version
+            x = 20;
+            x++;
+
         }
     }
 }
